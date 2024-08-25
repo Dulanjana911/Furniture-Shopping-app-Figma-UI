@@ -1,3 +1,3 @@
 "# Furniture-Shopping-app-Figma-UI" 
+![Untitled](https://github.com/user-attachments/assets/45e451ac-332e-48f0-87d1-30e3faddeaee)
 
-![Untitled](https://github.com/user-attachments/assets/13911f9a-aa84-4ba1-a193-7f25d0a8f0c8)
